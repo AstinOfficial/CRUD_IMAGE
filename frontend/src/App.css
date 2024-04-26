@@ -1,0 +1,44 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.form input {
+  margin-bottom: 10px;
+}
+
+.image-preview {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image-preview > div {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.image-preview img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-bottom: 5px;
+}
+
+.product-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.product-list li {
+  margin-bottom: 20px;
+}
+
+.edit-images {
+  margin-bottom: 10px;
+}
+
+.edit-images img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-bottom: 5px;
+}
