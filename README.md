@@ -112,4 +112,13 @@ npm start
 - You can extend this to store images on Cloudinary or AWS S3 by updating the upload logic in the backend.
 
 
+## 🙌 Contribution
+If you found this useful or improved it further, feel free to fork, clone, and submit a pull request.
+```bash
+https://github.com/AstinOfficial/CRUD_IMAGE.git
+```
+
+## 🙋‍♂️ Author
+Astin Biju <br>
+Feel free to connect on <a href="https://www.linkedin.com/in/astin-biju/">LinkedIn</a> or message me for questions or collaboration.
 
